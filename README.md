@@ -3,7 +3,7 @@
 A shell program is made using C which tokenizes inputs as commands and executes them as a separate process.
 It utilizes functions like fork and exec for forking different processes.
 
-Different features include:
+Different features include-
 • Tokenization of input
 • Forking different processes
 • History command(gives a list of last n executed commands)
